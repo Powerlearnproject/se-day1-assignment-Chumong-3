@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 # Part 1: Introduction to Software Engineering #
 
 ### 1. What is Software Engineering, and Why is it Important? ###
-Software engineering is the developing, testing, and maintaining software systems that solve real world problems thus making our lives easier. * It ensures:\
+Software engineering is the developing, testing, and maintaining software systems that solve real world problems thus making our lives easier. - It ensures:\
 •	Reliability: Software functions as expected, especially in critical fields like healthcare and finance.\
 •	Efficiency: Optimizes developer workflows while maintaining high-quality standards.\
 •	Scalability & Flexibility: Ensures systems handle increased loads without performance degradation.\
