@@ -2,21 +2,21 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering #
 
-*1. What is Software Engineering, and Why is it Important?*
+### 1. What is Software Engineering, and Why is it Important? ###
 Software engineering is the developing, testing, and maintaining software systems that solve real world problems thus making our lives easier. It ensures:
 •	Reliability: Software functions as expected, especially in critical fields like healthcare and finance.
 •	Efficiency: Optimizes developer workflows while maintaining high-quality standards.
 •	Scalability & Flexibility: Ensures systems handle increased loads without performance degradation.
 •	Security: Implements protection practices such as authentication, authorization, and encryption to secure user data.
 
-2. Key Milestones in the Evolution of Software Engineering
+### 2. Key Milestones in the Evolution of Software Engineering ###
 •	Mastering Complexity: Development of structured programming methodologies to manage complex software systems.
 •	Mastering Process: Introduction of software development methodologies like Waterfall and Agile to improve efficiency in development of systems.
 •	Mastering Machine: Advances in computing power and programming languages to optimize software performance and usability.
 
-*3. Phases of the Software Development Life Cycle (SDLC)*
+### 3. Phases of the Software Development Life Cycle (SDLC) ###
    
 1.	Planning: Identifying software requirements, scope, and objectives.
 2.	Requirement Analysis: Defining end-user specifications.
@@ -25,7 +25,7 @@ Software engineering is the developing, testing, and maintaining software system
 5.	Testing: Identifying and fixing bugs before deployment.
 6.	Deployment & Maintenance: Releasing the software and providing updates as needed.
    
-*4. Waterfall vs. Agile Methodologies*
+### 4. Waterfall vs. Agile Methodologies ###
 Feature	Waterfall Methodology	Agile Methodology
 Approach	Linear & Sequential	Iterative & Incremental
 Flexibility	Low; changes are difficult to implement	High; adapts to changing requirements
@@ -35,42 +35,42 @@ Appropriate Use Cases:
 •	Waterfall: Best for projects with clear, unchanging requirements (e.g., construction software, government systems).
 •	Agile: Suitable for projects requiring frequent updates and customer involvement (e.g., mobile apps, SaaS products).
 
-*5. Roles in a Software Engineering Team*
-## Software Developer
+### 5. Roles in a Software Engineering Team ###
+#### Software Developer
 •	Develops applications, programs, and systems.
 •	Maintains and updates software.
 •	Collaborates with the team to ensure best practices.
 •	Reports progress to the project manager.
-## Quality Assurance (QA) Engineer
+#### Quality Assurance (QA) Engineer
 •	Understands and clarifies software requirements.
 •	Develops and enforces testing standards.
 •	Identifies bugs and suggests improvements.
 •	Executes automated testing using open-source tools.
-## Project Manager
+#### Project Manager
 •	Assembles and leads the software development team.
 •	Defines project scope and communicates with stakeholders.
 •	Tracks milestones and ensures timely delivery.
 •	Oversees software deployment and monitors performance.
 
-6. Importance of IDEs and VCS in Software Development
-Integrated Development Environments (IDEs)
+### 6. Importance of IDEs and VCS in Software Development ###
+_Integrated Development Environments (IDEs)_
 An IDE provides a comprehensive environment for writing, compiling, and debugging code.
 Examples: Visual Studio Code (VSCode), Eclipse.
-Benefits:
+_Benefits:_
 •	Code Assistance: Syntax highlighting, code suggestions.
 •	Error Reduction: Detects syntax errors in real time.
 •	Debugging Tools: Allows step-by-step execution of code.
 Version Control Systems (VCS)
 VCS tracks and manages changes in code over time.
 Example: Git
-### Benefits:
+_Benefits:_
 •	Collaboration: Multiple developers can work on the same codebase.
 •	Change Tracking: Maintains a history of modifications.
 •	Branching & Merging: Supports parallel development.
 •	Error Recovery: Enables rollback to previous versions if needed.
 
-*7. Common Challenges Faced by Software Engineers & Solutions*
-Challenge	Solution
+### 7. Common Challenges Faced by Software Engineers & Solutions ###
+_Challenge	Solution_
 Rapid Technological Advancement	Continuous learning & Agile adaptation
 Time Constraints	Implement Agile workflows (Scrum)
 Limited Infrastructure	Utilize cloud computing & efficient data storage architectures
@@ -78,7 +78,7 @@ Changing Requirements	Use Agile methodologies & modular design
 Software Security	Implement cybersecurity best practices
 Accessibility & Usability	Design user-friendly, scalable systems
 
-*8. Types of Software Testing*
+### 8. Types of Software Testing
 Testing Type	Description	Importance
 Unit Testing	Tests individual components or functions	Ensures each unit works as intended
 Integration Testing	Verifies interaction between different modules	Ensures smooth data flow & module interactions
@@ -86,7 +86,7 @@ System Testing	Evaluates the entire system as a whole	Ensures system meets all f
 Acceptance Testing	Confirms if software meets business requirements	Ensures the product is ready for deployment
 
 
-## Part 2: Introduction to AI and Prompt Engineering ##
+# Part 2: Introduction to AI and Prompt Engineering #
 ### 1. What is Prompt Engineering & Why is it Important? ###
 Prompt engineering is the process of crafting instructions to guide AI models in generating desired outputs.
 Importance:
