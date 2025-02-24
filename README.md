@@ -5,16 +5,16 @@ Software Engineering Day1 Assignment
 # Part 1: Introduction to Software Engineering #
 
 ### 1. What is Software Engineering, and Why is it Important? ###
-Software engineering is the developing, testing, and maintaining software systems that solve real world problems thus making our lives easier. It ensures:
-•	Reliability: Software functions as expected, especially in critical fields like healthcare and finance.
-•	Efficiency: Optimizes developer workflows while maintaining high-quality standards.
-•	Scalability & Flexibility: Ensures systems handle increased loads without performance degradation.
-•	Security: Implements protection practices such as authentication, authorization, and encryption to secure user data.
+Software engineering is the developing, testing, and maintaining software systems that solve real world problems thus making our lives easier. It ensures:\
+•	Reliability: Software functions as expected, especially in critical fields like healthcare and finance.\
+•	Efficiency: Optimizes developer workflows while maintaining high-quality standards.\
+•	Scalability & Flexibility: Ensures systems handle increased loads without performance degradation.\
+•	Security: Implements protection practices such as authentication, authorization, and encryption to secure user data.\
 
 ### 2. Key Milestones in the Evolution of Software Engineering ###
-•	Mastering Complexity: Development of structured programming methodologies to manage complex software systems.
-•	Mastering Process: Introduction of software development methodologies like Waterfall and Agile to improve efficiency in development of systems.
-•	Mastering Machine: Advances in computing power and programming languages to optimize software performance and usability.
+•	Mastering Complexity: Development of structured programming methodologies to manage complex software systems.\
+•	Mastering Process: Introduction of software development methodologies like Waterfall and Agile to improve efficiency in development of systems.\
+•	Mastering Machine: Advances in computing power and programming languages to optimize software performance and usability.\
 
 ### 3. Phases of the Software Development Life Cycle (SDLC) ###
    
@@ -28,7 +28,7 @@ Software engineering is the developing, testing, and maintaining software system
 ### 4. Waterfall vs. Agile Methodologies ###
 Feature	Waterfall Methodology	Agile Methodology
 Approach	Linear & Sequential	Iterative & Incremental
-Flexibility	Low; changes are difficult to implement	High; adapts to changing requirements
+Flexibility	Low; changes are difficult to implement\	High; adapts to changing requirements
 Customer Feedback	Late in the process	Continuous throughout development
 Testing	Done at the end	Continuous in each iteration
 Appropriate Use Cases:
@@ -37,26 +37,26 @@ Appropriate Use Cases:
 
 ### 5. Roles in a Software Engineering Team ###
 #### Software Developer
-•	Develops applications, programs, and systems.
-•	Maintains and updates software.
-•	Collaborates with the team to ensure best practices.
-•	Reports progress to the project manager.
+•	Develops applications, programs, and systems.\
+•	Maintains and updates software.\
+•	Collaborates with the team to ensure best practices.\
+•	Reports progress to the project manager.\
 #### Quality Assurance (QA) Engineer
-•	Understands and clarifies software requirements.
-•	Develops and enforces testing standards.
-•	Identifies bugs and suggests improvements.
-•	Executes automated testing using open-source tools.
+•	Understands and clarifies software requirements.\
+•	Develops and enforces testing standards.\
+•	Identifies bugs and suggests improvements.\
+•	Executes automated testing using open-source tools.\
 #### Project Manager
-•	Assembles and leads the software development team.
-•	Defines project scope and communicates with stakeholders.
-•	Tracks milestones and ensures timely delivery.
-•	Oversees software deployment and monitors performance.
+•	Assembles and leads the software development team.\
+•	Defines project scope and communicates with stakeholders.\
+•	Tracks milestones and ensures timely delivery.\
+•	Oversees software deployment and monitors performance.\
 
 ### 6. Importance of IDEs and VCS in Software Development ###
-_Integrated Development Environments (IDEs)_
-An IDE provides a comprehensive environment for writing, compiling, and debugging code.
-Examples: Visual Studio Code (VSCode), Eclipse.
-_Benefits:_
+_Integrated Development Environments (IDEs)_\
+An IDE provides a comprehensive environment for writing, compiling, and debugging code.\
+Examples: Visual Studio Code (VSCode), Eclipse.\
+_Benefits:_\
 •	Code Assistance: Syntax highlighting, code suggestions.
 •	Error Reduction: Detects syntax errors in real time.
 •	Debugging Tools: Allows step-by-step execution of code.
